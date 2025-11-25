@@ -20,10 +20,6 @@ Go-библиотека для работы с КриптоПро CSP через
 
 - Go 1.25 или выше
 - КриптоПро CSP 5.0+
-- Установленные утилиты:
-  - `/opt/cprocsp/bin/amd64/cryptcp`
-  - `/opt/cprocsp/bin/amd64/certmgr`
-- Linux (amd64)
 
 ## Установка
 
